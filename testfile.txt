@@ -2,3 +2,5 @@ The Lord is good
 Welcome to Acada learning
 creating some couple of lines
 save it and do a status
+i am adding another comment.
+Father help us withthis git
