@@ -7,3 +7,6 @@ let's go with git
 it's getting interesting now
 i think i'm loving it.
 To God be the glory
+this is trying to edit from repo
+and then we'd fetch 
+to see it in our local repo
